@@ -46,4 +46,3 @@ $data_list->filter('.post')->each(function (\Symfony\Component\DomCrawler\Crawle
 });
 
 print_r($scrapped);exit;
-git s
